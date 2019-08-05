@@ -37,6 +37,7 @@ public class StackArrayList {
 
     /**
      * ArrayList representation of the stack
+     
      */
     private ArrayList<Integer> stackList;
 
